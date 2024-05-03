@@ -108,7 +108,7 @@ aside {
 
 .aside {
     /* border: 1px solid black; */
-    width: 15%;
+    width: 12%;
     height: 100%;
 }
 
@@ -118,7 +118,7 @@ aside {
     align-items: center;
     justify-content: center;
     height: 100%;
-    background-color: #AAA7A0;
+    background-color: #F3DFB0;
 }
 
 .links_aside {
